@@ -1,16 +1,58 @@
-## Hi there 👋
+<h1 align="center">Salut, moi c'est Jonathan 👋</h1>
+<h3 align="center">Flutter | Firebase | Clean Architecture | Python en apprentissage 📚</h3>
 
-<!--
-**jonathan-muina19/jonathan-muina19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 À propos de moi  
+👨‍💻 Développeur passionné par la création d'applications modernes, efficaces et bien structurées.  
+🛠️ J'utilise principalement **Flutter + Firebase** et j'applique la **Clean Architecture** pour produire du code propre et maintenable.  
+🎯 Actuellement, j'améliore mes compétences en **Python** et **FastApi**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💡 Ce que je fais
+- 🔭 Développement d'applications Flutter (Mobile & Web)
+- 🔥 Firebase Authentication, Firestore, Cloud Functions
+- 🧑‍🎓 Apprentissage continu de nouvelles technologies
+- 📝 Création de projets structurés et pédagogiques (Bloc, Provider, etc.)
+
+---
+
+### 🛠️ Stack technique
+<p align="center">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+### 📊 Mes stats GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jonathanmuina&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jonathanmuina&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🏆 Trophées GitHub
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jonathanmuina&theme=radical&margin-w=10&no-bg=true&no-frame=true" />
+</p>
+
+---
+
+### 🔗 Me retrouver ici
+- 💼 [LinkedIn](www.linkedin.com/in/
+jonathan-muina-9272652b1
+)
+- 📫 Email : tonemail@gmail.com
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
+</p>
