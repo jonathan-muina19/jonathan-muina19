@@ -1,5 +1,5 @@
 <h1 align="center">Salut, moi c'est Jonathan 👋</h1>
-<h3 align="center">Flutter | Firebase | Clean Architecture | Python en apprentissage 📚</h3>
+<h3 align="center">Flutter | Firebase | Clean Architecture | Python  📚</h3>
 
 ---
 
