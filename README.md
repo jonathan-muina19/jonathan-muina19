@@ -29,19 +29,6 @@
 
 ---
 
-### 📊 Mes stats GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonathanmuina&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jonathanmuina&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-### 🏆 Trophées GitHub
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jonathanmuina&theme=radical&margin-w=10&no-bg=true&no-frame=true" />
-</p>
 
 ---
 
