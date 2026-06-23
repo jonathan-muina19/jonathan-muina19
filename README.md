@@ -1,17 +1,18 @@
 <h1 align="center">Developpeur App</h1>
-<h3 align="center">Flutter | Firebase | Clean Architecture | Python</h3>
+<h3 align="center">Flutter | Firebase | Clean Architecture | Python | FastAPI</h3>
 
 ---
 
 ### À propos de moi  
 Développeur passionné par la création d'applications modernes, efficaces et bien structurées.  
 J'utilise principalement **Flutter + Firebase** et j'applique la **Clean Architecture** pour produire du code propre et maintenable.  
-Actuellement, j'améliore mes compétences en **Python** et **FastApi**.
+Actuellement, j'améliore mes compétences en **Python** et **FastAPI**.
 
 ---
 
 ### Ce que je fais
 - Développement d'applications Flutter (Mobile & Web)
+- Conception d'APIs performantes avec FastAPI
 - Firebase Authentication, Firestore, Cloud Functions
 - Apprentissage continu de nouvelles technologies
 - Création de projets structurés et pédagogiques (Bloc, Provider, etc.)
@@ -24,6 +25,7 @@ Actuellement, j'améliore mes compétences en **Python** et **FastApi**.
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
